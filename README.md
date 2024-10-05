@@ -3,6 +3,6 @@
 A simple script for expand memory since I keep installing stuffs on my virtual machine.
 If you have any issue, let me know and I'll work to fix it. 
 Made in bash
-Fully funcional, at least for *virutal machine*
----
+Fully funcional, at least for <b>virtual machine</b>
+
 
